@@ -16,7 +16,7 @@ public class Solution {
                             "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen",
                          "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty",
                      "twenty one", "twenty two", "twenty three", "twenty four", "twenty five",
-					 "twenty six", "twenty seven", "twenty eight", "twenty nine"};
+		 "twenty six", "twenty seven", "twenty eight", "twenty nine"};
 
         if(m == 0){
             time = timesWords[h] + " o' clock";
